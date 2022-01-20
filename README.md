@@ -53,7 +53,7 @@ Stack Version: [7.16.2](https://www.elastic.co/blog/elastic-stack-7-16-2-release
 - A command to ship your host Docker Images to the ELK.
 
 #### More points
-And comparing Elastdocker and the popular [deviantony/docker-elk](https://github.com/deviantony/docker-elk)
+
 
 <details><summary>Expand...</summary>
 <p>
@@ -98,7 +98,7 @@ Elastdocker differs from `deviantony/docker-elk` in the following points.
 
 1. Clone the Repository
      ```bash
-     git clone https://github.com/sherifabdlnaby/elastdocker.git
+     git clone https://github.com/KishoreParihar/elkDocker.git
      ```
 2. Initialize Elasticsearch Keystore and TLS Self-Signed Certificates
     ```bash
