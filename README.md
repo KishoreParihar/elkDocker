@@ -17,15 +17,7 @@
    <a>
       <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome">
    </a>
-   <a href="https://github.com/sherifabdlnaby/elastdocker/network">
-      <img src="https://img.shields.io/github/forks/sherifabdlnaby/elastdocker.svg" alt="GitHub forks">
-   </a>
-   <a href="https://github.com/sherifabdlnaby/elastdocker/issues">
-        <img src="https://img.shields.io/github/issues/sherifabdlnaby/elastdocker.svg" alt="GitHub issues">
-   </a>
-   <a href="https://raw.githubusercontent.com/sherifabdlnaby/elastdocker/blob/master/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="GitHub license">
-   </a>
+   
 </p>
 
 # Introduction
