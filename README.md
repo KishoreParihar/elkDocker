@@ -27,7 +27,7 @@ Suitable for Demoing, MVPs and small production deployments.
 
 Based on [Official Elastic Docker Images](https://www.docker.elastic.co/)
 
-Stack Version: [7.16.2](https://www.elastic.co/blog/elastic-stack-7-16-2-released)
+Stack Version: [7.16.2](https://www.elastic.co/blog/elastic-stack-7-16-3-released)
 > You can change Elastic Stack version by setting `ELK_VERSION` in `.env` file and rebuild your images. Any version >= 7.0.0 is compatible with this template.
 
 ### Main Features 📜
