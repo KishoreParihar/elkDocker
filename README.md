@@ -6,7 +6,7 @@
 <h4 align="center">Configured to be ready to be used for Log, Metrics, APM, Alerting, Machine Learning, and Security (SIEM) usecases.</h4>
 <p align="center">
    <a>
-      <img src="https://img.shields.io/badge/Elastic%20Stack-7.16.2-blue?style=flat&logo=elasticsearch" alt="Elastic Stack Version 7^^">
+      <img src="https://img.shields.io/badge/Elastic%20Stack-7.16.3-blue?style=flat&logo=elasticsearch" alt="Elastic Stack Version 7^^">
    </a>
    <a>
       <img src="https://img.shields.io/github/v/tag/sherifabdlnaby/elastdocker?label=release&amp;sort=semver">
